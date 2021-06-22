@@ -10,7 +10,7 @@ int main() {
     string kegiatan;
     // -------------
 
-    // Meminta output user
+    // Meminta input user
     cout << "----- Program To Do List Sederhana -----\n";
     cout << "Masukan nama : \n";
         cin >> nama;
